@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315847183235",
+    "project_id": "modernapp-a6524",
+    "storage_bucket": "modernapp-a6524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315847183235:android:c6bde45032ee69861f84b6",
+        "android_client_info": {
+          "package_name": "com.div.modern_app_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbeLcy4CNR3XzHtQazkmjDylRhZIFWlTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
